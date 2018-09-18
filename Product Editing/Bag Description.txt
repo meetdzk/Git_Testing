@@ -1,0 +1,62 @@
+<h2 style="color: #ff9900; text-align: center;">
+<span style="text-decoration: underline;">Product Details</span></h2>
+<div style="text-align: center;">
+<strong>Bag Type:</strong> Handbag<br /> 
+<strong>Design:</strong> Tote<br /> 
+<strong>Styled For:</strong> Work | Travel | Casual | Shopping<br /> 
+<strong>Add-ons:</strong> Rope Handle, Zipper Closure, Interior Zipper Pocket<br /> 
+<strong>Decoration:</strong> Fish - Black on White Print<br /> 
+<strong>Material:</strong> Canvas - Artist Grade<br /> 
+<strong>Hardness:</strong> Soft<br /> 
+<strong>Size(H | L):</strong> 13.7" | 10.6"
+</div>
+
+
+<h3 style="color: #ff9900; text-align: center;"><u>Good To know - Details</u></h3>
+<div style="text-align: center;">
+<strong>Bag Type:</strong> Backpack<br />
+<strong>Add-ons:</strong> Cell Phone Pocket, Laptop Segment<br />
+<strong>Laptop Support:</strong> Yes<br />
+<strong>Material:</strong> PU Leather<br />
+<strong>Carrying System:</strong> Air Cushion Strap<br />
+<strong>Size(H | L | W):</strong> 9" | 4" | 8"<br />
+</div>
+
+
+<h3 style="color: #ff9900; text-align: center;"><u>Good To know - Details</u></h3>
+<div style="text-align: center;">
+<strong>Bag Type:</strong> Accessory Bag<br />
+<strong>Style:</strong> Crossbody Messenger<br />
+<strong>Interior:</strong> Cell Phone Pocket, Interior Zipper Pocket<br />
+<strong>Material:</strong> PU<br />
+<strong>Hardness:</strong> Soft<br />
+<strong>Carrying System:</strong> Crossbody Adjustable Strap<br />
+<strong>Size-Small (H | L | W):</strong> 9.5" | 8.5" | 2.8"<br />
+<strong>Size-Large (H | L | W):</strong> 8.7" | 11.5" | 2.8"<br />
+</div>
+
+<h3 style="color: #ff9900; text-align: center;"><u>Good To know - Details</u></h3>
+<div style="text-align: center;">
+<strong>Bag Type:</strong> Work Bag<br />
+<strong>Style:</strong> Briefcase<br />
+<strong>Interior:</strong> Interior Compartment, Laptop Segment, Cell Phone Pocket, Interior Zipper, Interior Slot Pocket<br />
+<strong>Material:</strong> PU<br />
+<strong>Hardness:</strong> Soft<br />
+<strong>Carrying System:</strong> Crossbody Adjustable Strap<br />
+<strong>Size-Small (H | L | W):</strong> 9.5" | 8.5" | 2.8"<br />
+<strong>Size-Large (H | L | W):</strong> 8.7" | 11.5" | 2.8"<br />
+</div>
+
+<h2 style="color: #ff9900; text-align: center;"><span style="text-decoration: underline;">Product Details</span></h2>
+<div style="text-align: center;">
+<strong>Bag Type:</strong> Handbag<br /> 
+<strong>Design:</strong> Tote<br /> 
+<strong>Styled For:</strong> Work | Travel | Casual | Shopping<br /> 
+<strong>Add-ons:</strong> Zipper Closure, Interior Zipper Pocket<br /> 
+<strong>Decoration:</strong> Merry Owl Print<br /> 
+<strong>Material:</strong> Canvas - Artist Grade<br /> 
+<strong>Hardness:</strong> Soft<br /> 
+<strong>Size( H | L | W ):</strong> 14.5" | 10.7" | 3.2"
+</div>
+
+

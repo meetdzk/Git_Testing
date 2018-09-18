@@ -1,0 +1,184 @@
+====================================
+Keywords:
+===================================
+Yoga Leggings			27100
+yoga pants				246000
+legging pants			5400
+fitness leggings		9900
+gym leggings			33100
+sports leggings			18100
+high waisted leggings	27100
+workout leggings		33100
+Mesh Leggings			33100
+
+====================================
+Tags:
+====================================
+Material-Poly-Span
+Design-Cartoon
+Category-Apparel-Bottom
+ShowInShop
+Type-Leggings
+Color-White
+Print-
+
+One Size (S - XL)
+
+====================================
+Meta:
+====================================
+Ultra lightweight, sweat-free & all-way stretch Leggings perfect for yoga, dance, workout, everyday wear, and so much more! Made up of high compression fiber, these leggings provide an amazing Second Skin Fit while its all-way stretch design makes it super comfortable. It'll move with you during all your bends and stretches without sheering. That's why it's one of our most-loved Activity Yoga Leggings.
+
+====================================
+Description:
+====================================
+Crave it? Get it Now before we run out of stock. Limited quantity available. Hurry...
+
+<span style="text-decoration: underline;"><strong>Feature</strong></span>
+<br /><strong>Ultra lightweight, sweat-free &amp; all-way stretch</strong> design makes this legging <strong>perfect for yoga, dance, workout, everyday wear, and so much more!</strong> 
+
+<br /><br /> 
+<span style="text-decoration: underline;"><strong>Material</strong></span>
+<br />The fabric is a <strong>perfect blend of 82% Polyester and 18% Spandex</strong>, which makes the Leggings <strong>soft &amp; smooth, stretchable and highly breathable</strong>. <br />All-way Stretch knitted fabric enables the Leggings to stretch and contract so that you can move effortlessly with maximum comfort.<br />The dense microfiber yarn <strong>wicks away sweat easily.</strong> 
+
+<br /><br /> 	
+<span style="text-decoration: underline;"><strong>Fit</strong></span>
+<br /><strong>Second skin fit</strong>. Form-fitting material for a streamlined body fit.<br />Elastic waistband<br />Ankle Length<br />Fits true to size 
+
+<br /> <br /> 
+<span style="text-decoration: underline;"><strong>Care</strong></span>
+<br />Machine wash or hand wash cold, Tumble dry low<br />Do not Iron
+
+==================================================================
+Beautiful, comfy, versatile and many more obvious reasons, this Gorgeous blue skin-fit Mermaid Leggings is one of our absolute favorites. 
+Inspired from The Circinus Galaxy, this legging is mesmerizingly beautiful. It'll move with you during all your bends and stretches without sheering.
+Being Abstract is its Beauty. The geometric patches of colors make this legging vibrant and unique.
+This turquoise Nebula galaxy printed Legging is not just mesmerizingly beautiful, but also very comfortable, sheer-free and versatile which makes it one of our most favorites. 
+The mesmerizing beauty of the dark forest in the blue night sky makes this one of our most favorites. 
+This Dark Forest & the Moon Light Printed Legging is not just intimidatingly beautiful, but also very comfortable, sheer-free and versatile which makes it one of our Most-Loved Leggings.
+The high compression fabric provides an amazing Second Skin Fit, while its all-way stretch design makes it super comfy. 
+Love! Turns Heads every time I wear them
+
+You will get obsessed with them.
+That's why it's one of our most-loved leggings.
+
+If yes, then this is a must for you.
+If you love Gothic Fashion, then this is a must-have for you.
+How do you stop those eyeballs staring at you with these on?
+You can pair almost anything with it and get that flood of compliments coming in. 
+With this gradient shade of blue, You can almost pair anything with this and get that flood of compliments coming in. 
+With its foggy black shade, you can pair almost anything on the top of it and get those eyeballs rolling on you.
+Just put them on and get ready to get loads of compliments.
+You can almost pair anything with this and get that flood of compliments coming in. Hurry...
+Throw in anything on top of it and you'll start getting loads of compliments in no time. 
+
+Love this Abstract Beauty? Get one Now before we run out of stock. Limited quantity available. Hurry...
+Love them already? Get it Now before we run out of stock. Limited quantity available. Hurry...
+Get this now before they run out of stock.
+Get one now before it runs out of stock. Limited quantity available.
+If you love them already, then Get it Now before it goes out of stock. Limited quantity available. Hurry...
+Love them? Get one now before it runs out of stock. Limited quantity available. Hurry...
+<br /><br />Crave it? Get it Now before we run out of stock. Limited quantity available. Hurry...
+
+
+When did you last buy a workout legging this stylish and beautiful? 
+
+Made up of high compression fiber, this legging provides an amazing Second Skin Fit while its all-way stretch design makes it super comfortable. It'll move with you during all your bends and stretches without sheering. That's why it's one of our most-loved workout leggings.
+
+Crave it? Get it Now before we run out of stock. Limited quantity available. Hurry...
+
+The deep space galaxy print makes it vibrant, versatile and unique. You can pair almost anything on the top of it. Just put them on and get those eyeballs rolling on you. 
+
+====================================
+Size Guide:
+====================================
+ class="mfp-hide"
+ 
+  {% if product.type == "Apparel-Leggings" %}
+				<a class="lg-size-chart-open-popup" href="#lg-size-chart"><strong><span style="text-decoration: underline;">SIZE GUIDE</span></strong></a>
+              	<br/><br/>
+  {% endif %}
+			  
+ $('.lg-size-chart-open-popup').magnificPopup({
+  type:'inline',
+  midClick: true,
+  closeBtnInside: false,
+  gallery: { enabled:true }
+});
+
+
+<div id="lg-size-chart" class="mfp-hide">
+	{{ pages.lg-size-chart.content }}
+</div>
+
+<style>
+#lg-size-chart {
+  padding: 20px;
+  padding-top: 20px;
+  width: 80%;
+  height:80%;
+  overflow: auto;
+  margin: auto
+}
+</style>
+
+==================================================================
+
+Shipping & Returns
+
+FREE SHIPPING WORLDWIDE!
+We ship free Worldwide, including P.O. boxes and APO/EPO/DPO addresses. Orders are processed daily in order for us to expedite processing time and have them shipped out to you usually within 1-4 days! 
+Below are the approximate shipping times for your reference. 
+ 
+United States	2-4 Weeks
+Australias	2-8 Weeks
+Canada	2-8 Weeks
+United Kingdom	2-8 Weeks
+Worldwide	2-8 Weeks
+ 
+See Expedited shipping times below:
+US, AU, CA, UK: 1-2 Weeks
+International/Worldwide: 2-4 Weeks
+ 
+
+Q&A
+
+Can your leggings be worn for working out?
+
+Absolutely! Our leggings are designed to be stretchy and flexible enough for all activities, including workouts. Check out our selections of athletic leggings and capris for additional benefits during your workout.
+
+What materials are your products made of?
+
+Most of our products are made with a polyester-elastane blend, with the exception of our cotton and faux-leather leggings.
+
+Are they machine washable?
+
+Yes! Like all our products, we recommend a cold wash and low tumble dry to keep your leggings in their best condition.
+
+Are your leggings see-through?
+
+Our leggings are designed with each our customers in mind. No one wants to wear leggings and have to worry about their under garments being visible, therefore we ensure that each of our leggings, and capris are all tested before leaving our facilities.
+
+Is the waistband on your leggings tight fit comfortably around the waist?
+
+Yes! The waistband on our leggings is designed to allow at least 1 in of stretch around the waist so that it provides maximum comfort and functionality
+
+Will all of my products now have the Lotus Leggings logo?
+
+Yes, all products will now be manufactured with the Lotus Leggings logo on them!
+
+Will the colors in my leggings fade once I wash them?
+
+Absolutely not! Our leggings are each printed using high quality sublimation inks that have been tested to withstand continuous washing of our leggings!
+
+Is the material good for cold weather?
+
+Our products are designed to maintain your natural body heat. Wearing our products combined with your favorite winter gear will definitely keep you warm this winter!
+
+Are all of your products shipped with the Lotus Leggings logo on them?
+
+Yes! We are now including the Lotus logo on all of our products!
+
+How durable are the seams of your products?
+
+Our products are all sewn together using the 7-point stitch method to ensure that our products are built with maximum strength and quality.

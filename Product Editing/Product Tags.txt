@@ -1,0 +1,59 @@
+Gender:
+	Gender-Women
+	Gender-Men
+	
+Category:
+	Category-Bag
+
+Type:
+	Type-Tote Bag
+
+Material:
+	Material-Canvas
+
+Occasion:
+	Occasion-Beach
+	Occasion-Casual
+	Occasion-Rendezvous
+	Occasion-Shopping
+	Occasion-Travel
+	Occasion-Work
+	
+Color:
+	Color-Blue
+	Color-White
+	Color-Pink
+	Color-Black
+	Color-Pink
+	Color-Red
+	Color-Brown
+	Color-Yellow
+
+ 
+
+Design:
+	Design-Elemental
+	Design-Animal
+	Design-Nature
+	Design-Abstract
+
+Print:
+	Print-Elephant
+	Print-Butterfly
+	Print-Flower
+	Print-Owl
+	Print-Cat
+	Print-Fish
+	Print-Giraffe
+	Print-Color Stripes
+	
+	
+
+ 
+	
+	
+	
+
+
+
+
