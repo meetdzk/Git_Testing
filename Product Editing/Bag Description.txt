@@ -1,3 +1,4 @@
+///////////USER 2 Changes\\\\\\\\\\\\
 <h2 style="color: #ff9900; text-align: center;">
 <span style="text-decoration: underline;">Product Details</span></h2>
 <div style="text-align: center;">
